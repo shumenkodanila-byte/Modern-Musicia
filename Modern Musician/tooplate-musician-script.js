@@ -1,9 +1,5 @@
 /* JavaScript Document
 
-Tooplate 2155 Modern Musician
-
-
-
 */
 
 document.addEventListener('DOMContentLoaded', function () {
